@@ -1,8 +1,7 @@
-package test;
+package test.usertest;
 
 import com.github.javafaker.Faker;
-import endpoint.UserEndPoints;
-import endpoint.UserEndPoints2;
+import endpoint.user.UserEndPoints2;
 import io.restassured.response.Response;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

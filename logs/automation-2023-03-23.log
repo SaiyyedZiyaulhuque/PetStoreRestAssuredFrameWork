@@ -192,8 +192,8 @@
 16:23:25.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 16:23:25.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 16:23:25.635 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-16:23:43.547 [main] INFO  test.UserTest - ****************Create User******************
-16:23:45.234 [main] INFO  test.UserTest - ****************User Is Created******************
+16:23:43.547 [main] INFO  test.usertest.UserTest - ****************Create User******************
+16:23:45.234 [main] INFO  test.usertest.UserTest - ****************User Is Created******************
 16:23:45.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
 16:23:45.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 16:23:45.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
@@ -222,20 +222,20 @@
 16:23:45.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 16:23:45.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 16:23:45.875 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-16:23:54.403 [main] INFO  test.UserTest - ****************Reading User Info******************
-16:23:55.794 [main] INFO  test.UserTest - ****************User Info Displayed******************
-16:23:55.794 [main] INFO  test.UserTest - ****************Updating User******************
-16:23:57.200 [main] INFO  test.UserTest - ****************User Is Updated******************
-16:23:58.700 [main] INFO  test.UserTest - ****************Deleting User******************
-16:24:00.075 [main] INFO  test.UserTest - ****************User Is Deleted******************
-16:25:30.719 [main] INFO  test.UserTest2 - ****************Create User******************
-16:25:41.386 [main] INFO  test.UserTest2 - ****************User Is Created******************
-16:25:41.479 [main] INFO  test.UserTest2 - ****************Reading User Info******************
-16:25:43.464 [main] INFO  test.UserTest2 - ****************User Info Displayed******************
-16:25:43.464 [main] INFO  test.UserTest2 - ****************Updating User******************
-16:25:45.370 [main] INFO  test.UserTest2 - ****************User Is Updated******************
-16:25:47.295 [main] INFO  test.UserTest2 - ****************Deleting User******************
-16:25:49.076 [main] INFO  test.UserTest2 - ****************User Is Deleted******************
+16:23:54.403 [main] INFO  test.usertest.UserTest - ****************Reading User Info******************
+16:23:55.794 [main] INFO  test.usertest.UserTest - ****************User Info Displayed******************
+16:23:55.794 [main] INFO  test.usertest.UserTest - ****************Updating User******************
+16:23:57.200 [main] INFO  test.usertest.UserTest - ****************User Is Updated******************
+16:23:58.700 [main] INFO  test.usertest.UserTest - ****************Deleting User******************
+16:24:00.075 [main] INFO  test.usertest.UserTest - ****************User Is Deleted******************
+16:25:30.719 [main] INFO  test.usertest.UserTest2 - ****************Create User******************
+16:25:41.386 [main] INFO  test.usertest.UserTest2 - ****************User Is Created******************
+16:25:41.479 [main] INFO  test.usertest.UserTest2 - ****************Reading User Info******************
+16:25:43.464 [main] INFO  test.usertest.UserTest2 - ****************User Info Displayed******************
+16:25:43.464 [main] INFO  test.usertest.UserTest2 - ****************Updating User******************
+16:25:45.370 [main] INFO  test.usertest.UserTest2 - ****************User Is Updated******************
+16:25:47.295 [main] INFO  test.usertest.UserTest2 - ****************Deleting User******************
+16:25:49.076 [main] INFO  test.usertest.UserTest2 - ****************User Is Deleted******************
 07:44:10.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
 07:44:11.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 07:44:11.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

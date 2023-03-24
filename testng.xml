@@ -6,9 +6,9 @@
     </listeners>
     <test thread-count="5" name="Pet Test">
         <classes>
-          <!--  <class name="test.DDTest"></class>
-              <class name="test.UserTest"></class>-->
-            <class name="test.UserTest2"></class>
+          <!--  <class name="test.usertest.DDTest"></class>
+              <class name="test.usertest.UserTest"></class>-->
+            <class name="test.usertest.UserTest2"></class>
         </classes>
     </test>
 </suite>

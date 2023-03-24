@@ -1,6 +1,6 @@
-package test;
+package test.usertest;
 
-import endpoint.UserEndPoints;
+import endpoint.user.UserEndPoints;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
