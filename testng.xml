@@ -8,7 +8,7 @@
         <classes>
           <!--  <class name="test.usertest.DDTest"></class>
               <class name="test.usertest.UserTest"></class>-->
-            <class name="test.usertest.UserTest2"></class>
+            <class name="test.usertest.UserTest2"/>
         </classes>
     </test>
 </suite>
